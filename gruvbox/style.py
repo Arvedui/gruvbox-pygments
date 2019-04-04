@@ -17,7 +17,7 @@ from pygments.token import Token, Comment, Name, Keyword, Generic, Number, Opera
 class GruvboxStyle(Style):
     """ Retro groove color scheme for Vim by Github: @morhetz """
 
-    background_color = '#282828'
+    background_color = '#32302f'
     styles = {
         Comment.Preproc:    'noinherit #8ec07c',
         Comment:            '#928374 italic',
